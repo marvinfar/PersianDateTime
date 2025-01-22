@@ -1,0 +1,15 @@
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\bin\Debug\PersianDateTime.dll.config
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\bin\Debug\PersianDateTime.dll
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\bin\Debug\PersianDateTime.pdb
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\bin\Debug\Microsoft.Xrm.Sdk.dll
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\obj\Debug\PersianDateTime.csproj.AssemblyReference.cache
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\obj\Debug\PersianDateTime.csproj.CoreCompileInputs.cache
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\obj\Debug\PersianDateTime.csproj.CopyComplete
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\obj\Debug\PersianDateTime.dll
+Q:\MyProjects\CRM B2C-Projects\WFA_PersianDateTime\PersianDateTime\PersianDateTime\obj\Debug\PersianDateTime.pdb
